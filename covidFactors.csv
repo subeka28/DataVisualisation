@@ -1,0 +1,19 @@
+﻿region ,factors,average flu rate
+Asia,no vaccines,42.81
+Africa,no vaccines,13.1
+North America,no vaccines,19.61
+South America,no vaccines,10.94
+Europe,no vaccines,69.71
+Oceania,no vaccines,7.09
+Asia,not washing hands,3.53
+Africa,not washing hands,0.09
+North America,not washing hands,1.03
+South America,not washing hands,2.71
+Europe,not washing hands,11.83
+Oceania,not washing hands,0.52
+Asia,not using face mask,19.14
+Africa,not using face mask,1.36
+North America,not using face mask,894.92
+South America,not using face mask,832.25
+Europe,not using face mask,7.42
+Oceania,not using face mask,285.61
