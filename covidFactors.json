@@ -1,92 +1,38 @@
 [
  {
    "region": "Asia",
-   "factors": "no vaccines",
-   "average flu rate": 42.81
+   "transportation": 42.81,
+   "deforestation for food production": 3.53,
+   "fossil fuels": 19.14
  },
  {
    "region": "Africa",
-   "factors": "no vaccines",
-   "average flu rate": 13.1
+   "transportation": 13.1,
+   "deforestation for food production": 0.09,
+   "fossil fuels": 1.36
  },
  {
    "region": "North America",
-   "factors": "no vaccines",
-   "average flu rate": 19.61
+   "transportation": 19.61,
+   "deforestation for food production": 1.03,
+   "fossil fuels": 894.92
  },
  {
    "region": "South America",
-   "factors": "no vaccines",
-   "average flu rate": 10.94
+   "transportation": 10.94,
+   "deforestation for food production": 2.71,
+   "fossil fuels": 832.25
  },
  {
    "region": "Europe",
-   "factors": "no vaccines",
-   "average flu rate": 69.71
+   "transportation": 69.71,
+   "deforestation for food production": 11.83,
+   "fossil fuels": 7.42
  },
  {
    "region": "Oceania",
-   "factors": "no vaccines",
-   "average flu rate": 7.09
- },
- {
-   "region": "Asia",
-   "factors": "not washing hands",
-   "average flu rate": 3.53
- },
- {
-   "region": "Africa",
-   "factors": "not washing hands",
-   "average flu rate": 0.09
- },
- {
-   "region": "North America",
-   "factors": "not washing hands",
-   "average flu rate": 1.03
- },
- {
-   "region": "South America",
-   "factors": "not washing hands",
-   "average flu rate": 2.71
- },
- {
-   "region": "Europe",
-   "factors": "not washing hands",
-   "average flu rate": 11.83
- },
- {
-   "region": "Oceania",
-   "factors": "not washing hands",
-   "average flu rate": 0.52
- },
- {
-   "region": "Asia",
-   "factors": "not using face mask",
-   "average flu rate": 19.14
- },
- {
-   "region": "Africa",
-   "factors": "not using face mask",
-   "average flu rate": 1.36
- },
- {
-   "region": "North America",
-   "factors": "not using face mask",
-   "average flu rate": 894.92
- },
- {
-   "region": "South America",
-   "factors": "not using face mask",
-   "average flu rate": 832.25
- },
- {
-   "region": "Europe",
-   "factors": "not using face mask",
-   "average flu rate": 7.42
- },
- {
-   "region": "Oceania",
-   "factors": "not using face mask",
-   "average flu rate": 285.61
+   "transportation": 7.09,
+   "deforestation for food production": 0.52,
+   "fossil fuels": 285.61
  }
 ]
