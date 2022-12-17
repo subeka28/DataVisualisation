@@ -1,0 +1,38 @@
+[
+  {
+    "region": "Asia",
+    "not using face mask": 625,
+    "not washing hands": 563,
+    "no vaccines": 431
+  },
+  {
+    "region": "Africa",
+    "not using face mask": 456,
+    "not washing hands": 325,
+    "no vaccines": 321
+  },
+  {
+    "region": "North America",
+    "not using face mask": 656,
+    "not washing hands": 333,
+    "no vaccines": 600
+  },
+  {
+    "region": "South America",
+    "not using face mask": 341,
+    "not washing hands": 123,
+    "no vaccines": 342
+  },
+  {
+    "region": "Europe",
+    "not using face mask": 123,
+    "not washing hands": 145,
+    "no vaccines": 234
+  },
+  {
+    "region": "Oceania",
+    "not using face mask": 222,
+    "not washing hands": 256,
+    "no vaccines": 285.61
+  }
+]
